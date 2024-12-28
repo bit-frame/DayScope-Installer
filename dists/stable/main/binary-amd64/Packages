@@ -1,0 +1,12 @@
+Package: dayscope-util
+Version: 1.0
+Architecture: amd64
+Maintainer: bit-frame
+Depends: bash
+Filename: /home/linus-kang/dayscope-installer/pool/main/dayscope-util/dayscope-util.deb
+Size: 760
+MD5sum: ae0daefdc4381d2ec4e0e47f8db50992
+SHA1: 38cc916da4912d92c7d4122784796e00132d88cf
+SHA256: cf64dfb434162587ad196ecb3365aafcbcf2d4afb977771fb0b62b5b1144fda0
+Description: The util package for DayScope
+
